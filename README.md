@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://www.instagram.com/p/C5YjB3gq1Kl" alt="Ing from Granite Waves by Tezeze">
-    <img src="./banners/ing-granite_waves.gif" align="left" width=336>
+    <img src="./assets/banners/granite_waves-ing.gif" align="left" width=336>
   </a>
   <p float="left">
     <samp>
@@ -11,24 +11,25 @@
       - brazillian;<br>
       - pt_br, en_us, de;<br>
       <br>
-      - self-taught curious;<br>
-      - network engineering student at IF;<br>
-      - computer engineering student (kind of);<br>
+      - a big curious 'n self-learner;<br>
+      - network engineering student at <a href="https://portal.ifma.edu.br/instituto">IF</a>;<br>
+      - self-taught in computer engineering (kind of);<br>
+      - enrolled at INCODE Tech School;<br>
       <br>
       - computers, coffee, tea, retro things;<br>
-      - pixels, hacking cult, music, unix;<br>
+      - pixel art, hacking cult, music, unix;<br>
       - foss, floss, oss, libre or whatever;<br>
       <br>
       - back-end, devops, infra;<br>
       <br>
       - ubuntu, windows, debian;<br>
-      - mint, arch, suse, mx;<br>
+      - mint, arch(main), suse, mx;<br>
       <br>
-      - git, github, gitlab, codeberg, docker;<br>
-      - nginx, proxmox, prometheus, grafana;<br>
+      - git, github, codeberg, gitlab, docker;<br>
+      - proxmox, prometheus, grafana, nginx;<br>
       <br>
-      - bash, python, lua, c++, js, ts, java, rusto;<br>
-      - nix, latex, markdowns, ansible, pring;<br>
+      - bash, lua, python, c++, js, ts, java, rusto;<br>
+      - nix, markdown, latex, ansible, pring;<br>
       <br>
       <a href="https://discordapp.com/users/242367322478739456">discord</a>
         <a href="https://bsky.app/profile/paodelonga.bsky.social">bsky</a>
