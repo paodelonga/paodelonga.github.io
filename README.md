@@ -14,7 +14,7 @@
       - a big curious 'n self-learner;<br>
       - network engineering student at <a href="https://portal.ifma.edu.br/instituto">IF</a>;<br>
       - self-taught in computer engineering (kind of);<br>
-      - enrolled at INCODE Tech School;<br>
+      - enrolled at <a href="https://www.linkedin.com/school/incode-tech-school">INCODE Tech School</a>;<br>
       <br>
       - computers, coffee, tea, retro things;<br>
       - pixel art, hacking cult, music, unix;<br>
