@@ -31,6 +31,9 @@
       - bash, lua, python, c++, js, ts, java, rusto;<br>
       - nix, markdown, latex, ansible, pring;<br>
       <br>
+      - pfp is a <a href="https://picrew.me/share?cd=w4p3bfVKRj">picrew</a> by <a href="https://x.com/TAEJO__">@taejo__</a><br>
+      - the banner is from Granite Waves by <a href="https://www.instagram.com/tezeze_art">@tezeze</a><br>
+      <br>
       <a href="https://discordapp.com/users/242367322478739456">discord</a>
         <a href="https://bsky.app/profile/paodelonga.bsky.social">bsky</a>
         <a href="mailto:paodelonga@proton.me">mail</a>
