@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://www.instagram.com/p/C5YjB3gq1Kl" alt="Ing from Granite Waves by Tezeze">
-    <img src="./assets/banners/granite_waves-ing.gif" align="left" width=336>
+    <img src="./assets/banners/granite_waves-ing.gif" align="left" width=370>
   </a>
   <p float="left">
     <samp>
@@ -32,13 +32,15 @@
       - nix, markdown, latex, ansible, pring;<br>
       <br>
       - pfp is a <a href="https://picrew.me/share?cd=w4p3bfVKRj">picrew</a> by <a href="https://x.com/TAEJO__">@taejo__</a><br>
-      - the banner is from Granite Waves by <a href="https://www.instagram.com/tezeze_art">@tezeze</a><br>
       <br>
       <a href="https://discordapp.com/users/242367322478739456">discord</a>
         <a href="https://bsky.app/profile/paodelonga.bsky.social">bsky</a>
         <a href="mailto:paodelonga@proton.me">mail</a>
         <a href="https://wakatime.com/@018edc77-7a24-4632-bd86-c0736313ea21">wakatime</a>
-        <a href="https://linkedin.com/in/paodelonga">linkedin</a>
+        <a href="https://linkedin.com/in/paodelonga">linkedin</a><br>
+      <br>
+      &nbsp;&nbsp;&nbsp;
+      the banner is from Granite Waves by <a href="https://www.instagram.com/tezeze_art">@tezeze</a><br>
     </samp>
   </p>
 </p>
